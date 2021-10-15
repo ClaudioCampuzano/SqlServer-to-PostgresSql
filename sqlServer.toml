@@ -1,0 +1,12 @@
+[default]
+host = "146.82.89.99"
+port = "10001"
+database = "OMIA_Analytics"
+user = "omiaremote"
+password ="n2AjsTC4MY"
+charset = "utf8"
+sql_log = true
+time_zone = ""
+
+MaxIdleConns = 10 
+MaxOpenConns = 100 

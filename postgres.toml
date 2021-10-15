@@ -1,0 +1,12 @@
+[default]
+host = "database-omia.ccco8vwbpupr.us-west-2.rds.amazonaws.com"
+port = "5432"
+database = "postgres"
+user = "digevo"
+password ="Digevobd*"
+charset = "utf8"
+sql_log = true
+time_zone = ""
+
+MaxIdleConns = 10 
+MaxOpenConns = 100 
